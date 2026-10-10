@@ -23,7 +23,8 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=cpp,python,c,js,ts,react,nodejs,express,fastapi,mongodb,mysql,pytorch,git,github,vscode,postman&perline=8"/>
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,express,fastapi,mongodb,mysql,pytorch,git,github,vscode,postman&perline=8" />
 
 </div>
 
