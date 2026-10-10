@@ -201,7 +201,7 @@ LONG-TERM GOAL
 
 <div align="center">
 
-### "Consistency beats intensity. Keep building."
+### "Turning ideas into reality."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0077B6,100:090A0F" width="100%"/>
 
