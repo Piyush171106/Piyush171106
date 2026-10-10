@@ -54,9 +54,9 @@ I'm building my foundation in Java and Data Structures & Algorithms while workin
 | Category                     | Technologies                                                                                                                 |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | 💻 **Programming Languages** | Python, Java ,JavaScript, TypeScript, SQL                                                                                  |
-| 🎨 **Frontend**              | React, HTML5, CSS3 , Next JS                                                                                                         
-| ⚙️ **Backend**               | Node.js, Express.js, REST APIs                                                                                               |
-| 🗄️ **Databases**            | MongoDB, MySQL                                                                                                                     |
+| 🎨 **Frontend**              | React, HTML5, CSS3 , Next js , Bootstrap                                                                                                        
+| ⚙️ **Backend**               | Node.js, Express.js, REST APIs , JWT , FastAPI                                                                                              |
+| 🗄️ **Databases**            | MongoDB, MySQL, Firebase, Supabase                                                                                                                   |
 | 🧠 **Core Computer Science** | Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks |
 | 🛠 **Developer Tools**       | Git, GitHub, VS Code, Postman 
 ---
