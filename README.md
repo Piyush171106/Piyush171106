@@ -2,27 +2,30 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090A0F,50:14213D,100:0077B6&text=Piyush%20Bramhankar&fontSize=48&fontColor=ffffff&fontAlignY=40" width="100%"/>
 
-### Aspiring Full Stack Developer | Java & DSA | AI Enthusiast
+### Full Stack Developer | Java & DSA | AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Java+%26+Data+Structures+%26+Algorithms;Aspiring+Full+Stack+Developer;Exploring+MERN+Stack;Building+Projects%2C+One+Commit+at+a+Time;Future+AI+Application+Developer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Java+%26+Data+Structures+%26+Algorithms;+Full+Stack+Developer;+MERN+Stack;Building+Projects%2C;+AI+Application+Developer" width="100%"/>
 
 <br/>
 
-*Learning by building. Growing through problem-solving. Creating with code.*
-
+ *Building scalable full-stack applications and AI-powered systems with a focus on backend engineering*
+<br>
 <a href="https://github.com/Piyush171106">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/piyush-bramhankar-28a1b7348?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<br>
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/PiyushBramhankar/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,git,github,vscode&perline=9"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,c,js,ts,react,nodejs,express,fastapi,mongodb,mysql,pytorch,git,github,vscode,postman&perline=8"/>
+
+</div>
 
 </div>
 
@@ -39,23 +42,22 @@ I'm building my foundation in Java and Data Structures & Algorithms while workin
 - 🌐 Working towards full-stack development with the **MERN stack**
 - 🤖 Interested in integrating AI into real-world applications
 - 📈 Consistently learning, building, and improving
-- 🎯 Goal: Secure a software development internship and grow into a strong software engineer
+- 💡 Interested in **Full Stack Development**, **Backend Engineering**, **Machine Learning**, and **System Design**
+- 🎯 Working towards building production-ready AI-powered software
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category | Technologies |
-|---|---|
-| Programming | Java, C/C++ fundamentals |
-| DSA & Problem Solving | Arrays, Strings, Sorting, Searching, Two Pointers, Sliding Window |
-| Web Development | HTML, CSS, JavaScript — learning and building |
-| Frontend | React — upcoming learning focus |
-| Backend | Node.js, Express.js — upcoming learning focus |
-| Databases | SQL, MongoDB — learning roadmap |
-| Developer Tools | Git, GitHub, VS Code |
-| Future Exploration | Generative AI, AI APIs, Full Stack AI Applications |
 
+| Category                     | Technologies                                                                                                                 |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 💻 **Programming Languages** | Python, Java ,JavaScript, TypeScript, SQL                                                                                  |
+| 🎨 **Frontend**              | React, HTML5, CSS3 , Next JS                                                                                                         
+| ⚙️ **Backend**               | Node.js, Express.js, REST APIs                                                                                               |
+| 🗄️ **Databases**            | MongoDB, MySQL                                                                                                                     |
+| 🧠 **Core Computer Science** | Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks |
+| 🛠 **Developer Tools**       | Git, GitHub, VS Code, Postman 
 ---
 
 ## 🚀 Projects
@@ -115,24 +117,18 @@ Exploring how AI APIs and intelligent features can make web applications more us
 ## 🧩 My Learning Roadmap
 
 ```text
-CURRENT FOCUS
-├── Java Fundamentals
-├── Object-Oriented Programming
-├── Data Structures & Algorithms
-└── LeetCode Problem Solving
-
-NEXT
-├── Advanced DSA Patterns
-├── HTML, CSS & JavaScript
-├── React
+Current Focus 
+├── Java & DSA 
+├── HTML, CSS & JavaScript, TypeScript
+├── React , Next JS
 ├── Node.js & Express
-└── MongoDB
+└── MongoDB 
 
 LONG-TERM GOAL
 ├── Full Stack Projects
 ├── AI API Integration
-├── System Design Fundamentals
-└── Internship & Placement Preparation
+├── System Design 
+└── Distributed Systems
 ```
 
 ---
@@ -151,22 +147,32 @@ LONG-TERM GOAL
 
 ---
 
+
 ## 🐍 Contribution Snake
 
 <div align="center">
+  <img
+    src="https://raw.githubusercontent.com/Piyush171106/Piyush171106/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</div>
 
-<img src="https://raw.githubusercontent.com/Piyush171106/Piyush171106/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
 
 </div>
 
 ---
+<div align="center">
 
-## 💡 Coding & Growth
+|      Platform     |                                    Profile                                    |
+| :---------------: | :---------------------------------------------------------------------------: |
+|  🟡 **LeetCode**  | <a href="https://leetcode.com/u/PiyushBramhankar/">Visit Profile ↗</a>      |
+| 🔵 **Codeforces** | <a href="">Visit Profile ↗</a> |
 
-- 🟡 **LeetCode:** Practicing coding problems and building consistency
-- 🔥 **Milestone:** Earned the LeetCode 50-day badge
-- 📚 **Focus:** DSA, Java, and software development fundamentals
-- 🚀 **Mission:** Build meaningful projects and prepare for internships
+</div>
+
+
+
 
 ---
 
@@ -178,8 +184,16 @@ LONG-TERM GOAL
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/piyush-bramhankar-28a1b7348?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/PiyushBramhankar/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/">
+<img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 </div>
